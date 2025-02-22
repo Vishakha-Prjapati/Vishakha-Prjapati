@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishakha Prajapati</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am B.Tech Student from India</h3>
 <img  align="right"  alt="coding"  width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRmaHc1cWwya3J2MzJnczFiNXdreWZkeDhrOGxmcnJyNGxtM3Z6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakhaprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="vishakhaprajapati" /> </p>
